@@ -1,5 +1,5 @@
-### Hi there 👋
-### I am Ayushi
+## Hi there 👋
+## I am Ayushi
 
 <!--
 **ayushiiamin/ayushiiamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
