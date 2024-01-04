@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! 👋 I am Ayushi Amin :)
+
+I am a graduate student at the University of Southern California, majoring in Computer Science. My tech stack involves Python, Java, Javascript, HTML, Bash, Shell, and Linux. My projects comprise a variety of topics including Machine Learning, Web Development, Security Systems, Operating Systems, Information Retrieval, Data Analysis, and DSA.
+* 📫 How to reach me: <ayushima@usc.edu>
+* 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayushiamin/)
 
 <!--
 **ayushiiamin/ayushiiamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
