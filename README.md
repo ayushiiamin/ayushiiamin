@@ -4,6 +4,9 @@ I am a graduate student at the University of Southern California, majoring in Co
 * 📫 How to reach me: <ayushima@usc.edu>
 * 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayushiamin/)
 
+## Programming Languages and Tools💻
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <!--
 **ayushiiamin/ayushiiamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
