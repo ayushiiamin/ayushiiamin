@@ -5,7 +5,7 @@ I am a graduate student at the University of Southern California, majoring in Co
 * 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayushiamin/)
 
 ## Programming Languages and Tools💻
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,ts)]([https://skillicons.dev](https://www.python.org/))
 
 <!--
 **ayushiiamin/ayushiiamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
